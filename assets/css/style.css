@@ -180,10 +180,13 @@ section {
 .header .logo {
   line-height: 0;
 }
+.logo{
+  width: 250px;
+}
 
 .header .logo img {
-  max-height: 40px;
-  margin-right: 6px;
+    max-height: 60px;
+    margin-right: 12px;
 }
 
 .header .logo span {
@@ -447,7 +450,7 @@ section {
 
 .hero h1 {
   margin: 0;
-  font-size: 48px;
+  font-size: 30px;
   font-weight: 700;
   color: #012970;
 }
@@ -455,7 +458,7 @@ section {
 .hero h2 {
   color: #444444;
   margin: 15px 0 0 0;
-  font-size: 26px;
+  font-size: 20px;
 }
 
 .hero .btn-get-started {
